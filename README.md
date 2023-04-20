@@ -1,4 +1,4 @@
-<p align="center"><img src="[https://i.imgur.com/SwiOw80.png](https://i.imgur.com/NM1SQN9.png)"></p>
+<p align="center"><img src="https://i.imgur.com/NM1SQN9.png"></p>
 <h3 align="center">Fabric Seasons: Croptopia Compat</h3>
 <p align="center">A simple mod that adds compatibility between Croptopia and Fabric Seasons.</p>
 <p align="center">
